@@ -1,0 +1,6 @@
+{
+  "name": "UtsavBazaar",
+  "description": "Mobile-first festive shopping storefront with product catalog, detail views, cart drawer, coupon engine, and interactive multi-step checkout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
